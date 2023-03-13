@@ -1,7 +1,7 @@
 Configuration of IMAV-S for Multilaser Gamer JS091 Controle GP-100:
 
 Configure as follows:
-	At the joystick, hold the house symbol for at least 5 seconds to configure it with leds 1 and 2 (XBOX 360 for Windows).
+	At the joystick, hold the "house" symbol for at least 5 seconds to configure it with leds 1 and 2 (XBOX 360 for Windows).
 	
 	The file "Parameters.m" needs to be updated with the following settings to avoid overflow in the simulation:
 		vxmax = 1.0;
