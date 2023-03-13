@@ -137,9 +137,9 @@ sSensors.yrp = zeros(3,1);
 
 %% Joystick %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-vxmax = 2.0;       
-vymax = 2.0;       
-vzmax = 2.0;       
+vxmax = 1.0;       
+vymax = 1.0;       
+vzmax = 1.0;       
 wzmax = 1.0;  
 
 sJoy.vxmax = vxmax;
