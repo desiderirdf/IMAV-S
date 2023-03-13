@@ -14,5 +14,5 @@ Configure as follows:
 		_ Functions
 
 Run simulation as follows:
-	1) Execute the "IMAVMArena.exe" file of the VirtualIndoorArena
-	2) Open and run "IMAVS.m" file from IMAV-S Github
+	1) Execute the "IMAVMArena.exe" file of the VirtualIndoorArena (downloadable from "http://www.professordavisantos.com/imav-s/")
+	2) Open and run "IMAVS.m" file from IMAV-S Github (downloadable from "https://github.com/daviasantos/IMAV-S")
